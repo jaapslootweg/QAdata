@@ -1,0 +1,15 @@
+Package: QAdata
+Type: Package
+Title: Data package for shiny app TeebStad
+Version: 0.1.0
+Authors@R: c(
+    person("Jaap", "Slootweg", email="jaapslootweg@outlook.com", role = c("aut", "cre"))
+    )
+Maintainer: jaap slootweg <jaapslootweg@outlook.com>
+Description: Questions and Answers for the TeebStad app
+Depends:
+    R (>= 3.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/jaapslootweg/QAdata
