@@ -13,3 +13,4 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/jaapslootweg/QAdata
+RoxygenNote: 7.2.3
